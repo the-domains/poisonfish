@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Poisonfish Games]]></title>
         <description><![CDATA[Poisonfish Games]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://poisonfish.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 17:16:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 17:23:14 GMT</lastBuildDate>
+        <atom:link href="http://poisonfish.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>About Poisonfish</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/188def4a-020d-47b8-b491-094a4e99aa93.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <title><![CDATA[WHO WE ARE]]></title>
+            <description><![CDATA[<article><h1>WHO WE ARE</h1><p>About Poisonfish</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5279a425fdd3d3f5d17c247c5f60e72bc83b3fa2.jpg"></article>]]></description>
+            <link>http://poisonfish.com/about/index.html</link>
             <guid isPermaLink="false">c3852e2f-2190-422f-ae4c-2e6b0ec46a12</guid>
-            <pubDate>Mon, 29 Feb 2016 17:15:29 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 17:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
